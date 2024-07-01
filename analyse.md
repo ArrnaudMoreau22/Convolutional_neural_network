@@ -143,9 +143,6 @@ On va donc maintenant rassembler les catégories Virus/Bactéries en Pneumonie
   - Pneumonies : 85%
   - Poumons normaux : 94%
 
-
-Précision globale de 73% pour une catégorisation en 3 classes.
-
 Nous analysons ensuite la performance du modèle en regroupant les pneumonies virales et bactériennes. La nouvelle matrice montre :
 
 Poumons normaux : 94% identifiés correctement mais avec beaucoup de faux positifs.

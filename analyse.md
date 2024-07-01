@@ -7,9 +7,6 @@ Le CNN est un modèle de deep learning utilisant des réseaux de neurones artifi
 
 Notre CNN est composé de plusieurs couches convolutives, de normalisation par lot, de couches d’activation LeakyRelu, de couches de maxpooling ainsi que de dropout pour réduire le surapprentissage.
 
-![Schéma du modèle CNN](https://github.com/ArrnaudMoreau22/Convolutional_neural_network/assets/113347237/8bb3cd91-f959-4c81-b197-84e5a890f873)
-
-
 ### Blocs de Convolution
 
 Chaque bloc de convolution comprend :
@@ -18,6 +15,8 @@ Chaque bloc de convolution comprend :
 - **LeakyRelU** : Ajoute de la non-linéarité pour combiner les features détectées.
 - **MaxPooling2D** : Redimensionne les données pour réduire les dimensions.
 - **Dropout** : Désactive aléatoirement 30% des neurones pour améliorer la généralisation et éviter le surapprentissage.
+
+![Schéma du modèle CNN](https://github.com/ArrnaudMoreau22/Convolutional_neural_network/assets/113347237/8bb3cd91-f959-4c81-b197-84e5a890f873)
 
 ### Partie Catégorisation
 
